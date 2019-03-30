@@ -1,3 +1,3 @@
-# HNG5.0
+# HNG5.0 Internship
 
-## The Remote Internship 
+## The is the default repository for HNG5.0 internship
